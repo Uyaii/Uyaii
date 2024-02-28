@@ -5,7 +5,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?   font=Cascadia+Code&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There+!;+I'm+Maryanne+Inyang!;+And+I'm+A+Software+Developer;"/>
   </a>
 </h1>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 ### Hi there 👋
 
 <!--
